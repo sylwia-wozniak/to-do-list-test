@@ -8,7 +8,7 @@ parse==1.12.1
 parse-type==0.5.2
 Paver==1.3.4
 pluggy==0.13.0
-psutil==5.6.3
+psutil==5.6.6
 selenium==3.141.0
 six==1.12.0
 urllib3==1.25.6
