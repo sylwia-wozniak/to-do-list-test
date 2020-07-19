@@ -1,4 +1,4 @@
-# To Do List Testsing
+# To Do List Testing
 It's BDD test of to do list by my project too. 
  
 ## Software requirements
